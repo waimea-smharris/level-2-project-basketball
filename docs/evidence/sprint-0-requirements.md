@@ -2,8 +2,8 @@
 
 ## Identified Problem or Need
 
-Replace this text with a clearly stated problem or need that exists that your project will attempt to solve / fulfil.
 
+Its always been difficult tyring to remember what time and what court my basketball training takes place so I'll be attempting to solve and make that problem easier. 
 
 ## End-User Requirements
 
